@@ -1,2 +1,16 @@
 # WinBackup
-It can backup and Restore your latest pc games save data.
+
+**WinBackup** allows you to easily **backup and restore** your latest PC game save data.
+
+---
+
+## Requirements
+
+- **Windows** (32-bit or 64-bit) or **Wine**
+- Must be **run as Administrator** on Windows
+- **Ajay Prefix** should **not** be installed  
+  *(If it is installed, use the built-in backup/restore feature from the Ajay Prefix Start Menu instead)*
+
+---
+
+*Note: Always run WinBackup with elevated privileges to ensure full access to game save directories.*
