@@ -13,6 +13,11 @@
   *(If it is installed, use the built-in backup/restore feature from the Ajay Prefix Start Menu instead)*
 
 ---
+## Limitation
+
+- It doesn't backup of official steam save data
+- It doesn't backup save from Game folder
+---
 
 *Note: Always run WinBackup with elevated privileges to ensure full access to game save directories.*
 
