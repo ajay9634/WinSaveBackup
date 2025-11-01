@@ -17,6 +17,8 @@
 
 - It doesn't backup of official steam save data
 - It doesn't backup save from Game folder
+- It doesn't backup theses folders
+-- Desktop , Start Menu , Microsoft , Music , Videos , Temp , Links , Pictures , Searches , Downloads , Contacts , Package Cache , 
 ---
 
 *Note: Always run WinBackup with elevated privileges to ensure full access to game save directories.*
