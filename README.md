@@ -1,6 +1,6 @@
-# WinBackup
+# WinSaveBackup
 
-**WinBackup** allows you to easily **backup and restore** your latest PC game save data.
+**WinSaveBackup** allows you to easily **backup and restore** your latest PC game save data.
 
 ---
 
@@ -21,7 +21,7 @@
 -- Desktop , Start Menu , Microsoft , Music , Videos , Temp , Links , Pictures , Searches , Downloads , Contacts , Package Cache
 ---
 
-*Note: Always run WinBackup with elevated privileges to ensure full access to game save directories.*
+*Note: Always run WinSaveBackup with elevated privileges to ensure full access to game save directories.*
 
 ## Advanced Tools
 Check Ajay Prefix Pro
